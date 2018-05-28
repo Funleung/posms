@@ -1,0 +1,4 @@
+#Thu May 17 04:31:44 HKT 2018
+base.0=/Users/johnleung/AndroidStudioProjects/POSMS/app/build/intermediates/transforms/dexMerger/debug/42
+path.0=classes.dex
+renamed.0=classes.dex
